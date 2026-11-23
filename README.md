@@ -1,6 +1,6 @@
 # Hi, I'm Elizabeth Ayomide 👋
 
-**Product Engineer & UI Engineer** based in Lagos, Nigeria (WAT / UTC+1).  
+**Product Design & UI Engineer** based in Lagos, Nigeria (WAT / UTC+1).  
 I build resilient full-stack systems and polished, accessible interfaces in **TypeScript**, **React / React Native**, **Node.js**, and **PostgreSQL**.
 
 ---
